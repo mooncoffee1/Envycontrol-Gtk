@@ -1,0 +1,1 @@
+My attemp to create a gtk version, it is for me, feel free to use, into the main folder its an sh to install it, if uk rust and gtk, feel free to help and push, im glad to get some1 to help with the project, i just made anything ik.
