@@ -1,5 +1,7 @@
 My attemp to create a gtk version, it is for me, feel free to use, into the main folder its an sh to install it, if uk rust and gtk, feel free to help and push, im glad to get some1 to help with the project, i just made anything ik.
 
+![envycontrol](https://github.com/mooncoffee1/Envycontrol-Gtk/assets/118976333/86d30ac1-d015-40d0-81dc-3829eea517a7)
+
 
 U need to have RUST and GTK3 installed.
 
